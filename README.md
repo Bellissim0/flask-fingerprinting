@@ -4,7 +4,7 @@ The only job of the API server is memorizing the fingerprint to the database, al
 
 Its endpoinds are:
 
-<strong>POST api/data</strong> it allows to post fingerprints
-<strong>GET api/data7<id></strong> it allows to retrieve fingerprint that matches with id
-<strong>POST api/hello</strong> it allows you to change the message that website displays
-<strong>GET api/hello</strong> it allows you to view the message that website displays
+<strong>POST api/data</strong> it allows to post fingerprints <br />
+<strong>GET api/data/<id></strong> it allows to retrieve fingerprint that matches with id <br />
+<strong>POST api/hello</strong> it allows you to change the message that website displays <br />
+<strong>GET api/hello</strong> it allows you to view the message that website displays <br />
